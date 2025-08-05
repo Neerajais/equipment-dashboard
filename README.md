@@ -69,10 +69,6 @@ Each data table contributes to a meaningful visualization that helps organizatio
 Created by **Kamal Kumar**  
 📧 Email: [kamal84041@example.com]  
 
-
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+ image - https://github.com/Neerajais/equipment-dashboard/blob/main/snapshot%20of%20the%20dashboard.jpg
 
